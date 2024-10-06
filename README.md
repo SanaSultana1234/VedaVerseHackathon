@@ -37,10 +37,11 @@ This project is designed for school students of all levels. By integrating immer
    - Email-based notifications
 
 2. **Learning Section**
-   - **AR Learning**: Interactive 3D models (10+ models developed using JavaScript, React, and Three.js)
-   - **VR Learning**: Explorable human body systems (Skeletal, Muscular, and Circulatory) developed using Unity and open-source models
-   - **Assessment**: Engaging educational quizzes
-
+   - **AR Learning**: Interactive 3D models (10+ models developed using JavaScript, React, and Three.js).<br>Enter the input as text or speech, e.g. Earth. This will give the 3D Model of that particular text where children can interact with it, listen to it, and explore more. The 3D model is developed using Three.js hence making learning fun for children.
+     
+   - **VR Learning**: Explorable human body systems, namely the Skeletal, Muscular, and Circulatory systems developed using Unity and open-source models.<br>Wear the VR headset and dive into the world of human anatomy to explore the various organs and their functionality. Information is provided in text as well as speech format. The organs can be grabbed, rotated, moved, and isolated to explore more. It also includes the assembly and reassembly of the various systems included.
+     
+   - **Assessment**: Engaging educational quizzes that make learning fun. It incorporates the questions related to the information provided in the hands-on AR and VR experiences to solidify the knowledge gained by children.
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript, React
