@@ -1,0 +1,22 @@
+.body1 {
+    background-size: cover;
+    overflow: scroll;
+    }
+    
+    .d1 {
+      object-fit: cover;
+      overflow: hidden;
+      width: 100%;
+      height: 500px;
+    }
+    img{
+      opacity:0.2;
+    }
+
+    .carousel-caption {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      color: #000;
+      font-size: 200%;
+  }
