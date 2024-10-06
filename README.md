@@ -48,6 +48,19 @@ This project is designed for school students of all levels. By integrating immer
 - **VR Development**: Unity 3D Engine, Unity XR Interaction Toolkit, SketchFab for assets
 - **AR Development**: Three.js, React
 
+## Documentation
+
+For detailed information about the project, please refer to our comprehensive documentation:
+
+[Learniverse Documentation](https://drive.google.com/file/d/1Nvdd4nTZDWvN9cqkKEKy6nejGLZfFh7I/view)
+
+## Demo Video
+
+Watch our demo video to see Learniverse in action and understand how it can revolutionize the learning experience:
+
+[Learniverse Demo Video](https://www.youtube.com/watch?v=Lg-R_b08B84)
+
+
 ## Project Setup
 
 1. Clone the repository:
